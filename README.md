@@ -1,6 +1,8 @@
 # Réussir le DCG 8
 Ressources sur l'épreuve "système d'information et de gestion" du DCG.
 
+
+
 * **Référentiels**
   * Compétences à importer format Moodle
   * Syllabus modifiable
@@ -40,7 +42,10 @@ Ressources sur l'épreuve "système d'information et de gestion" du DCG.
   * Glossaire
 	
 ## Coolaboration
-Ce site est totalement collaboratif: Voir le guide
+
+5000 étudiants s'inscrivent chaque année à l'épreuve d'informatique du DCG. Il est temps de partager nos ressources!
+
+Ce site est totalement collaboratif: [Voir le guide](./guide-github.md)
 Des millions de développeurs utilisent ce site pour être plus efficaces... pourquoi pas nous les profs?
 
 ## Licence
@@ -48,9 +53,11 @@ La licence actuelle est:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 CC-By-NC-SA
 
-By: Vous devez citer la source https://github.com/fxpar/dcg-ue8
-NC: Vous ne pouvez pas utiliser commercialement ces contenus
-Share-alike: vous devez distribuez les contenus avec la même licence
+**By**: Vous devez citer la source https://github.com/fxpar/dcg-ue8
+
+**NC**: Vous ne pouvez pas utiliser commercialement ces contenus
+
+**Share-alike**: vous devez distribuez les contenus avec la même licence
 
 
  
