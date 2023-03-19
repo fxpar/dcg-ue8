@@ -4,10 +4,14 @@ Ce projet a pour but de démontrer l'utilité et la faisabilité d'un vaste prog
 Voici les axes du projet. N'hésitez pas à cliquer sur les dossiers correspondant ci-dessus pour visiter en détails l'état d'avancement.
 
 ## Comment améliorer l'évaluation par compétences?
+![progression Référentiel](https://img.shields.io/badge/avancement-100%25-green)
+
 Le dossier **référentiel** contient le fichier des 622 compétences du DCG prêt à être importé dans moodle. Il est alors possible de lier le succés aux quiz et devoirs à l'acquisition d'une ou plusieurs compétences. 
 
 
 ## Encourager les étudiants à pratiquer
+![Progression](https://img.shields.io/badge/avancement-40%25-orange)
+
 Les annales depuis 2008 sont exclusivement fournis en version word ou pdf, ne permettant pas aux étudiants de tester leurs intuitions.
 
 Le dossier [annales](./annales) ci-dessus consiste donc à : 
@@ -20,8 +24,9 @@ Produire les **bases de données des parties SQL** et fournir un outil facilitan
 
 
 ## Personaliser les rythmes d'apprentissage
+![Progression](https://img.shields.io/badge/avancement-60%25-yellowgreen)
 
-Gérer la progression à plusieurs vitesse des étudiants est un défi pour les enseignants.
+Gérer la progression à plusieurs vitesses des étudiants est un défi pour les enseignants.
 
 Le dossier **SQL** contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégré dans une page de cours.
 
@@ -30,7 +35,8 @@ Le dossier **excel** regroupe une **série de vidéos** sur les 10 points clés 
 Le dossier **VBA** rassemble une série d'exercices progressifs pour s'entrainer à la programmation.
 
 
-## Accompagner: du savoir à la compréhension
+## Faciliter l'entrainement
+![Progression](https://img.shields.io/badge/avancement-40%25-orange)
 
 Les étudiants ont besoin de répéter régulièrement afin d'acquérir des automatismes, et se rassurer sur leur niveau. 
 
@@ -41,6 +47,7 @@ Les banques de questions correspondant aux annales et aux thèmes sont donc prop
 * questions **rédaction auto-corrigée** : une série d'expression est recherchée automatiqument dans les réponses
 
 ## Créer du lien social
+![Progression](https://img.shields.io/badge/avancement-50%25-yellow)
 
 Les manuels existants sont encore sur un apprentissage individuel, et n'offrent que très peu d'outils pédagogiques utilisable en cours pour faire travailler les étudiants ensemble.
 
@@ -48,14 +55,15 @@ Le dossier **activités** vise à contenir des activité pour le travail en **bi
 
 
 ## Le cours complet
+![Progression](https://img.shields.io/badge/avancement-50%25-lightgrey)
 
-Le projet vis à fournir un modèle de page complet au format moodle, à partir duquel les enseignants pourront composer: compétences, banques de questions, quiz pré-paramétrés pour valider les compétences (généralement après trois tentatives), badges, liens vidéos des replay...
+Le projet vise à fournir un modèle de page complet au format moodle, à partir duquel les enseignants pourront composer: compétences, banques de questions, quiz pré-paramétrés pour valider les compétences (généralement après trois tentatives), badges, liens vidéos des replay...
 
 L'objectifs serait de "packager" cette sauvegarde moodle d'ici l'été.
 
 
 	
-# La Coolaboration sur Github
+# La collaboration sur Github
 
 
 Des millions de développeurs utilisent ce site pour être plus efficaces... pourquoi pas nous les profs? On peut: 
@@ -69,7 +77,7 @@ Des millions de développeurs utilisent ce site pour être plus efficaces... pou
 
 Ce site est totalement collaboratif: [Voir le guide](./guide-github.md)
 
-## Licence
+# Licence
 La licence actuelle est:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 CC-By-NC-SA
