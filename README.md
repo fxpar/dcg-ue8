@@ -1,3 +1,4 @@
+![Réussir le DCG 8 couverture](./xtras/couverture.jpg)
 # Réussir le DCG 8
 Ce projet a pour but de démontrer l'utilité et la faisabilité d'un vaste programme de partage des ressources autour de l'UE "système d'information et de gestion" du DCG pour les 5000 étudiants qui s'inscrivent chaque année à cette épreuve et pour les centaines d'enseignants qui les accompagnent.
 
@@ -12,7 +13,7 @@ Le dossier **référentiel** contient le fichier des 622 compétences du DCG pr�
 ## Encourager les étudiants à pratiquer
 ![Progression](https://img.shields.io/badge/avancement-40%25-orange)
 
-Les annales depuis 2008 sont exclusivement fournis en version word ou pdf, ne permettant pas aux étudiants de tester leurs intuitions.
+Les annales depuis 2008 sont exclusivement fournies en version word ou pdf, ne permettant pas aux étudiants de tester leurs intuitions.
 
 Le dossier [annales](./annales) ci-dessus consiste donc à : 
 
@@ -75,11 +76,12 @@ Des millions de développeurs utilisent ce site pour être plus efficaces... pou
 * faire remonter des bugs et les corriger
 
 
-Ce site est totalement collaboratif: [Voir le guide](./guide-github.md)
+Ce site est totalement collaboratif: [Voir le guide](./xtras/guide-github.md)
 
 # Licence
 La licence actuelle est:
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
+
 CC-By-NC-SA
 
 **By**: Vous devez citer la source https://github.com/fxpar/dcg-ue8
