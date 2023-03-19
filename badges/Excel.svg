@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="236.58836mm"
+   height="236.58836mm"
+   viewBox="0 0 236.58837 236.58836"
+   version="1.1"
+   id="svg934"
+   sodipodi:docname="Excel.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs928">
+    <clipPath
+       id="clip0">
+      <rect
+         x="740"
+         y="390"
+         width="120"
+         height="120"
+         id="rect1572" />
+    </clipPath>
+    <clipPath
+       id="clip0-7">
+      <rect
+         x="1028"
+         y="321"
+         width="120"
+         height="120"
+         id="rect1599" />
+    </clipPath>
+    <clipPath
+       id="clip0-4">
+      <rect
+         x="740"
+         y="390"
+         width="120"
+         height="120"
+         id="rect839" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="374.0082"
+     inkscape:cy="440.69229"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="2551"
+     inkscape:window-y="362"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata931">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(12.287124,-24.142136)">
+    <path
+       d="m 172.80374,231.26082 -5.3406,12.18 -13.272,-0.85516 -7.6142,10.904 -12.85,-3.4279 -9.5951,9.2088 -11.934,-5.8689 -11.20701,7.1599 -10.559988,-8.0844 -12.389003,4.8359 -8.779801,-9.9891 -13.093999,2.3261 -6.662301,-11.51 -13.295997,-0.27315 -4.288801,-12.589 -12.987999,-2.8619 -1.750401,-13.183 -12.1799989,-5.3406 0.85517,-13.272 -10.9039997,-7.6142 3.4278995,-12.85 -9.2087989,-9.59511 5.8688994,-11.934 -7.1598994,-11.207 8.0843999,-10.56 -4.8359,-12.38899 9.9890991,-8.7798 -2.3261001,-13.093999 11.5099991,-6.662301 0.27315,-13.296 12.588999,-4.288798 2.8619,-12.988002 13.183,-1.750399 5.340601,-12.18 13.272,0.85516 7.614198,-10.904 12.85,3.4279 9.595094,-9.2088 11.934004,5.8689 11.207004,-7.1599 10.56,8.0844 12.389,-4.8359 8.7798,9.9891 13.094,-2.3261 6.6623,11.51 13.296,0.27314 4.2888,12.588999 12.988,2.8619 1.7504,13.182999 12.18,5.340602 -0.85516,13.272 10.904,7.614199 -3.4279,12.85 9.2088,9.59509 -5.8689,11.934 7.1599,11.207 -8.0844,10.56 4.8359,12.38901 -9.9891,8.7798 2.3261,13.094 -11.51,6.6623 -0.27315,13.296 -12.589,4.2888 -2.8619,12.988 z"
+       fill="#f98012"
+       stroke="#3a99d2"
+       stroke-width="0.277"
+       style="fill:#009ee0;fill-opacity:1;paint-order:stroke fill markers"
+       id="path39" />
+    <ellipse
+       id="path828"
+       transform="matrix(-0.99999271,0.00381858,0.00380167,0.99999277,0,0)"
+       cx="-105.46479"
+       cy="142.84007"
+       rx="105.00001"
+       ry="104.99999"
+       fill="#7f7f7f"
+       stroke="#ffffe1"
+       stroke-width="1.06061"
+       style="stroke:#ffffff;stroke-opacity:0.988593;paint-order:stroke fill markers" />
+    <ellipse
+       id="path828-6"
+       transform="matrix(0.99999271,0.00381853,-0.00380171,0.99999277,0,0)"
+       cx="106.54779"
+       cy="142.03049"
+       rx="92.49852"
+       ry="92.498512"
+       fill="#f98012"
+       stroke="#ffffff"
+       stroke-opacity="0.9901"
+       stroke-width="1.00294"
+       style="fill:#009ee0;fill-opacity:1;stroke:#ffffff;stroke-opacity:0.988593;paint-order:stroke fill markers" />
+    <text
+       x="113.64793"
+       y="184.19046"
+       fill="#ffffff"
+       font-family="sans-serif"
+       font-size="22.578px"
+       letter-spacing="0px"
+       stroke-width="0.263397"
+       text-align="center"
+       text-anchor="middle"
+       word-spacing="0px"
+       style="font-size:50.5729px;line-height:1.25"
+       xml:space="preserve"
+       id="text55"
+       transform="scale(0.95011912,1.0524996)"><tspan
+         x="113.64793"
+         y="184.19046"
+         stroke-width="0.263397"
+         id="tspan53"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.5729px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">EXCEL</tspan></text>
+    <g
+       clip-path="url(#clip0-4)"
+       transform="matrix(0.89958333,0,0,0.72355442,-614.32757,-220.00348)"
+       id="g846"
+       style="fill:#ffffff">
+      <path
+         d="m 842.5,437.5 h -25 v -15 h 25 z m 0,20 h -25 v -15 h 25 z m 0,20 h -25 v -15 h 25 z m -55,0 v -15 h 25 v 15 z m -30,0 v -15 h 25 v 15 z m 0,-35 h 25 v 15 h -25 z m 0,-20 h 25 v 15 h -25 z m 55,20 v 15 h -25 v -15 z m 0,-20 v 15 h -25 v -15 z M 750,415 v 70 h 100 v -70 z"
+         id="path844"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
