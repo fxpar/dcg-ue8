@@ -7,9 +7,9 @@ La logique du travail est toujours la même:
 1. Organiser et nettoyer les données que l'on possède
 1. Importer éventuellement de nouvelles données (CSV, XML)
 1. Calculer ou évaluer
-  * le délai entre des dates
-  * séparer les parties d'un code produit
-  * à quel trimestres appartiennent les devis
+    * le délai entre des dates
+    * séparer les parties d'un code produit
+    * à quel trimestres appartiennent les devis
 1. Relier les informations des différentes tables avec des recherches
 1. Synthétiser les données avec des formules ou les tableaux croisés dynamiques
 1. Faire les graphiques à partir des données synthétisées
@@ -21,6 +21,13 @@ La logique du travail est toujours la même:
 * **exceldcgsection1** : contient les replays spécifiques au DCG dans une seule section (créer une section vide en dessous de la section généralité, et importez la sauvegarde).
 * **excel direct**: contient tous les replays de Excel découpés en plusieurs sections. A importer/restaurer dans un nouveau cours. Voir à quoi cela ressemble sur [cours complet](https://www.edu.ep2b.fr/course/view.php?id=6) (se connecter en tant qu'invité)
 
+# Replay Youtubes
+Les "replay" en vidéo ont plusieurs fonctions:
+* certains étudiants réagissent négativement aux nouveautés car ils ou elles ont besoin de plus de temps pour s'adapter. L'effet de surprise leur est néfaste. Le "replay" peut leur servir, en amont du cours, à anticiper les nouveautés qui seront abordées.
+* pour d'autres au contraire, le replay a vraiment un effet de "deuxième passage" pour reprendre ce qui a été découvert durant le cours, plus calmement
+* les étudiants absents peuvent reprendre les parties techniques du cours, sans avoir les longueurs de certains enregistrements "en direct" d'un cours
+* lors des révisions, les étudiants peuvent revoir (généralement en vitesse 1.5) les parties qui nécessitent un rappel
+
 ## Formules
 
 Les formules de condition, de recherche et de gestion des erreurs sont cruciales pour l'examen DCG en système d'information.
@@ -31,6 +38,7 @@ Vous découvrirez ci-dessous quelques ressources pour vous améliorer dans leur 
 ### Conditions
 
 Pour choisir entre deux possibilités, voici la fonction Si. Découvrez aussi les opérateurs!
+
 [![Si](https://i.ytimg.com/vi/dJcfIrr5QPo/hqdefault.jpg)](
 https://www.youtube.com/watch?v=dJcfIrr5QPo)
 
@@ -46,6 +54,7 @@ https://www.youtube.com/watch?v=fN4CjReEruk)
 ### Compter avec critères
 
 Toutes les formules pour compter avec des critères et des critères composés.
+
 [![Compter avec critères](https://i.ytimg.com/vi/NOQAUYAm0OA/hqdefault.jpg)](
 https://www.youtube.com/watch?v=NOQAUYAm0OA)
 
@@ -123,6 +132,7 @@ https://www.youtube.com/watch?v=QL3MVISA_dg)
 
 
 ### Formules financières simples
+
 [![Finance](https://i.ytimg.com/vi/4cibrIq7bUg/hqdefault.jpg)](
 https://www.youtube.com/watch?v=4cibrIq7bUg)
 
@@ -131,6 +141,7 @@ https://www.youtube.com/watch?v=4cibrIq7bUg)
 ## Masquer les erreurs
 
 Pour faire disparaître #N/A et #VALEUR!.
+
 [![Gérer les erreurs](https://i.ytimg.com/vi/qssVj47XgWA/hqdefault.jpg)](
 https://www.youtube.com/watch?v=qssVj47XgWA)
 
@@ -141,10 +152,12 @@ Le tableau croisé dynamique est un outil très simple qui permet de synthétise
 
 
 ### TCD découverte : 
+
 [![TCD découverte](https://i.ytimg.com/vi/x7Fxwc-I6Vo/hqdefault.jpg)](
 https://www.youtube.com/watch?v=x7Fxwc-I6Vo)
 
-# LA suite
+# La suite
+
 * Le vba
 
 
