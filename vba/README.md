@@ -23,13 +23,18 @@ Les ressources pour enseigner et réussir l'épreuve de programmation VBA pour E
 
 ### Exercices simples corrigés
 
-[Enoncés](https://www.youtube.com/watch?v=vC2nf8k3J-8)
+#### Enoncé
+[![Enoncés](https://i.ytimg.com/vi/vC2nf8k3J-8/hqdefault.jpg)](
+https://www.youtube.com/watch?v=vC2nf8k3J-8)
 
+#### Corrigé
+[![Corrigé 1](https://i.ytimg.com/vi/MX90c4Ho9D8/hqdefault.jpg)](
+https://www.youtube.com/watch?v=MX90c4Ho9D8)
 
-[Corrigé 1](https://www.youtube.com/watch?v=MX90c4Ho9D8)
+### VBA dans LibreOffice
+Vous pouvez faire pratiquer le VBA à vos étudiants même si votre institution ne fournit pas de licence Microsoft. Voici le tuto pour LibreOffice Calc:
 
-
-
-
+[![VBA dans LibreOffice](https://i.ytimg.com/vi/MF9ORqdVv0g/hqdefault.jpg)](
+https://www.youtube.com/watch?v=MF9ORqdVv0g)
 
 
