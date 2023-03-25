@@ -15,17 +15,23 @@ Les ressources pour enseigner et réussir l'épreuve de programmation VBA pour E
   
 ## Que contient la banque de question?
 
-### Des QCM classiques
-Pour commencer gentiment.
-
-![QCM](./xtras/qcm.png)
+Seuls les types de questions standard de moodle sont utilisées (aucun ajout de plugin nécéssaire).
 
 ### Des cloze à choix multiples
-Ces questions permettent de poser plusieurs questions en une seule. Idéal pour vérifier la cohérence d'un raisonnement en plusieurs points ou la logique d'une démarche.
+
+Ces questions permettent de poser plusieurs questions en une seule. Idéal pour vérifier plusieurs point liés par une même thématique, ou pour tester la cohérence d'un raisonnement en plusieurs points ou la logique d'une démarche.
 
 ![QCM](./xtras/cloze_mcs.png)
 
+### Des QCM classiques
+
+Pour accompagner progressivement l'acquisition des connaissances.
+
+![QCM](./xtras/qcm.png)
+
+
 ### Des cloze à trou
+
 Ces questions n'ayant pas de proposition, l'étudiant doit maîtriser parfaitement la réponse et son orthographe. Niveau avancé.
 
 ![QCM](./xtras/cloze_trous.png)
@@ -36,6 +42,7 @@ La correction apparaît en passant la souris au dessus des trous.
   
 ## Annales contenant du VBA
 
+* [2016](./../annales/2016)
 
 ## Tuto Vidéos
 
