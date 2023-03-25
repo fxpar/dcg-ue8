@@ -17,8 +17,8 @@ gitGraph
     commit
     branch VotreVersion
     checkout develop
-    commit id: "ajout"
-    commit id: "modif"
+    commit
+    commit
     checkout main
     merge develop
     commit
