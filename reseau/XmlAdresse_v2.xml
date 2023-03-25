@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients >
+	<client idclient="1" civilité="Mme">
+		<nom>Granger</nom>
+		<prénom>Hermione</prénom>
+		<mobile indicatif="+33">0603050708</mobile>
+	</client>
+	
+	<client idclient="2" civilité="M.">
+		<nom>Potter</nom>
+		<prénom>Harry</prénom>
+		<mobile indicatif="+44">12380563247</mobile>
+	</client>
+	
+	....
+	
+	<client idclient="4" civilité="Mme">
+		<nom>McGonagall</nom>
+		<prénom>Minerva</prénom>
+		<mobile indicatif="+33">0603253789</mobile>
+	</client>
+</clients>
