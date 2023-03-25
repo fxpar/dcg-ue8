@@ -12,17 +12,17 @@ Github est un outil génial de synchronisation entre plusieurs versions d'un pro
 1. Devenez éditeur du projet initial pour pouvoir valider les ajouts des autres
 
 ````mermaid
-gitGraph
-    commit
-    commit
-    branch
-    checkout develop
-    commit
-    commit
-    checkout main
-    merge develop
-    commit
-    commit
+	gitGraph
+		commit
+		commit
+		branch
+		checkout develop
+		commit
+		commit
+		checkout main
+		merge develop
+		commit
+		commit
 ````
 
 ## Les autres outils
