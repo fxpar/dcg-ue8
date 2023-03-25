@@ -16,12 +16,12 @@ Github est un outil génial de synchronisation entre plusieurs versions d'un pro
 gitGraph
     commit
     commit
-    branch develop
-    checkout develop
-    commit
-    commit
+    branch VotreVersion
+    checkout VotreVersion
+    commit id: "Ajout"
+    commit id: "Modifs"
     checkout main
-    merge develop
+    merge VotreVersion tag: "intégration"
     commit
     commit
 ````
