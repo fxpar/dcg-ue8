@@ -11,6 +11,20 @@ Github est un outil génial de synchronisation entre plusieurs versions d'un pro
     * il vaut donc mieux faire régulièrement des propositions d'intégration pour éviter les conflits
 1. Devenez éditeur du projet initial pour pouvoir valider les ajouts des autres
 
+````mermaid
+gitGraph
+    commit
+    commit
+    branch Votre version
+    checkout develop
+    commit id: "ajout"
+    commit id: "modif"
+    checkout main
+    merge develop
+    commit
+    commit
+````
+
 ## Les autres outils
 
 Github inclut tous les outils de la collaboration:
