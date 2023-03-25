@@ -15,7 +15,7 @@ Github est un outil génial de synchronisation entre plusieurs versions d'un pro
 gitGraph
     commit
     commit
-    branch VotreVersion
+    branch
     checkout develop
     commit
     commit
