@@ -4,7 +4,7 @@
 Deux fichiers Excel sont fournis:
 * l'un sans le module VBA (les macros à compléter sont dans une simple feuille)
 * l'autre avec le module VBA contenant les macros à compléter
-* [ ] Créer la correction
+* [x] Créer la correction
 
 ## Banque de question
 Ensemble des questions avec la correction en feedback
