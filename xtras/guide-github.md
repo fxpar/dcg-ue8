@@ -12,18 +12,21 @@ Github est un outil génial de synchronisation entre plusieurs versions d'un pro
 1. Devenez éditeur du projet initial pour pouvoir valider les ajouts des autres
 
 ````mermaid
-
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'VersionOriginale'}} }%%
 gitGraph
-    commit
-    commit
+    commit id: "1"
+    commit id: "2"
     branch VotreVersion
     checkout VotreVersion
     commit id: "Ajout"
+    checkout VersionOriginale
+    commit id: "3"
+    checkout VotreVersion
     commit id: "Modifs"
-    checkout main
-    merge VotreVersion tag: "intégration"
-    commit
-    commit
+    checkout VersionOriginale
+    merge VotreVersion id: "4"  tag: "intégration"
+    commit id: "5"
+    commit id: "6"
 ````
 
 ## Les autres outils
