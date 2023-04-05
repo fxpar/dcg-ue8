@@ -35,3 +35,44 @@ Idéalement on pourrait améliorer la cohérence des données:
 *	La liste des navires (numéro, nom) de plus grande longueur que le navire ST EXUPÉRY et qui ont fait escale en 2019 (date de début).
 
 
+	-- a)	Le pavillon du navire immatriculé 9776418
+	-- SELECT pavillon
+	-- FROM Navire N, Pays P
+	-- WHERE N.idPays = P.idPays 
+	-- AND numOMI = 9776418;
+
+	-- b)	Le nombre d’opérations de l’escale n°20200524007 dont le libellé est Déchargement.
+	-- SELECT COUNT(*) 
+	-- FROM Opération O, CompositionCargaison C
+	-- WHERE O.idOpération = C.idOpération
+	-- AND idEscale = 20200524007
+	-- AND libelléOpération = "Déchargement"
+
+	--c)	La liste des agents consignataires (numéro, raison sociale) n’ayant encore jamais pris en charge d’escale.
+	-- SELECT IdAgent, RaisonSocialeAgent
+	-- FROM AgentConsignataire
+	-- WHERE idAgent NOT IN  (SELECT idAgent 
+	--     				       FROM Escale)
+
+
+	-- d)	La liste des clients (identifiant, raison sociale, tonnage total) pour lesquels
+	-- des opérations ont été réalisées 
+	-- pour un tonnage total supérieur à 1000 tonnes
+	-- SELECT CL.IdClient, RaisonSocialeClient, SUM (TonnageMarchandise)
+	-- FROM CLIENT CL, CompositionCargaison CO
+	-- WHERE CO.idClient = CL.idClient
+	-- GROUP BY CL.idClient, raisonSocialeClient
+	-- HAVING SUM (tonnageMarchandise) > 1000
+
+
+	-- e)	La liste des navires (numéro, nom) de plus grande longueur que le navire ST EXUPERY et qui ont fait escale en 2019 (date de début).
+	SELECT N.NumOMI, NomNavire 
+	FROM Navire N, Escale E
+	WHERE N.numOMI = E.numOMI 
+	AND strftime("%Y",dateDébut) = "2019" -- version sql: Year(dateDébut) = 2019
+	AND longueur > (SELECT longueur 
+	  FROM NAVIRE 
+	WHERE nomNavire = "ST EXUPÉRY")
+
+
+
