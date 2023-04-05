@@ -72,6 +72,7 @@ Vue mobile pour l'entrainement dans les transports.
 	
 # La collaboration sur Github
 
+[![Suivre le projet](./xtras/voirProjet.svg)](./xtras/guide-github.md)
 
 Des millions de développeurs utilisent ce site pour être plus efficaces... pourquoi pas nous les profs? On peut: 
 
