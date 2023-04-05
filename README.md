@@ -63,6 +63,12 @@ Le projet vise à fournir un modèle de page complet au format moodle, à partir
 L'objectifs serait de "packager" cette sauvegarde moodle d'ici l'été.
 
 
+## Le site d'entrainement en ligne
+Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
+Vue mobile pour l'entrainement dans les transports.
+
+![SQLpratique](./xtras/SQLpratique.png)
+
 	
 # La collaboration sur Github
 
