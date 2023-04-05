@@ -12,7 +12,7 @@ Le fichier powerpoint est mis à disposition si vous souhaitez modifier ou réé
 Il peut servir également de modèle pour de nouveaux badges.
 
 ## Prochains badges
-Vous pouvez suivre les demandes de création de nouveaux badge directement dans les "tâches du projet": [Voir les demandes de création](/issues?q=is%3Aissue+is%3Aopen+badge)
+Vous pouvez suivre les demandes de création de nouveaux badge directement dans les "tâches du projet": [Voir les demandes de création](issues?q=is%3Aissue+is%3Aopen+badge)
 
 
 ## Tuto vidéo pour créer simplement des badges
