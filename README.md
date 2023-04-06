@@ -1,33 +1,35 @@
 ![Réussir le DCG 8 couverture](./xtras/couverture.jpg)
 # Réussir le DCG 8
+Ressources d'entrainement pour les étudiants et les enseignants en systèmes d'informations et gestion: Excel, VBA, SQL, RGPD, Réseau. 
+
 Ce projet a pour but de démontrer l'utilité et la faisabilité d'un vaste programme de partage des ressources autour de l'UE "système d'information et de gestion" du DCG pour les 5000 étudiants qui s'inscrivent chaque année à cette épreuve et pour les centaines d'enseignants qui les accompagnent.
 
-Voici les axes du projet. N'hésitez pas à cliquer sur les dossiers correspondant ci-dessus pour visiter en détails l'état d'avancement.
+Voici les axes du projet. 
 
 ## Comment améliorer l'évaluation par compétences?
 ![progression Référentiel](https://img.shields.io/badge/avancement-100%25-green)
 
-Le dossier **référentiel** contient le fichier des 622 compétences du DCG prêt à être importé dans moodle. Il est alors possible de lier le succés aux quiz et devoirs à l'acquisition d'une ou plusieurs compétences. 
+Le dossier **référentiels** contient le fichier des 622 compétences du DCG prêt à être importé dans moodle. Il est alors possible de lier le succés aux quiz et devoirs à l'acquisition d'une ou plusieurs compétences. 
 
+<a href="./xtras/referentiels.md"><img src="./xtras/voirReferentiel.svg" height="40px" width="200px"/></a>
 
 ## Encourager les étudiants à pratiquer
 ![Progression](https://img.shields.io/badge/avancement-40%25-orange)
 
-Les annales depuis 2008 sont exclusivement fournies en version word ou pdf, ne permettant pas aux étudiants de tester leurs intuitions.
+Les fichiers word ou pdf des annales ont été transformés en fichiers d'exercice pour faire travailler concrètement les étudiants.
 
-Le dossier [annales](./annales) ci-dessus consiste donc à : 
-
-Produire les **fichiers Excel** des 14 annales pour que les étudiants puissent tester leurs formules.
+Réaliser les **fichiers Excel** des 14 annales à partir des captures d'écran fournies dans les sujets, pour que les étudiants puissent tester leurs formules réellement.
 
 Puis à **convertir les algorithmes en VBA** pour les années 2008 à la réforme de 2019, avec les fichiers de correction.
 
-Produire les **bases de données des parties SQL** et fournir un outil facilitant l'essai des réponses et la création de questions complémentaire immédiatement testables.
+Créer les **bases de données des parties SQL** et fournir un outil facilitant l'essai des réponses et la création de questions complémentaire immédiatement testables.
 
+<a href="./xtras/annales.md"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
 
 ## Personaliser les rythmes d'apprentissage
 ![Progression](https://img.shields.io/badge/avancement-60%25-yellowgreen)
 
-Gérer la progression à plusieurs vitesses des étudiants est un défi pour les enseignants.
+Gérer la progression à plusieurs vitesses des étudiants est un défi pour les enseignants. 
 
 Le dossier **SQL** contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégré dans une page de cours.
 
@@ -62,7 +64,7 @@ Le projet vise à fournir un modèle de page complet au format moodle, à partir
 
 L'objectifs serait de "packager" cette sauvegarde moodle d'ici l'été.
 
-<a href="/releases" class="button">Télécharger le cours</a>
+<a href="/releases"><img src="./xtras/telechargerCours.svg" height="40px" width="230px"/></a>
 
 
 ## Le site d'entrainement en ligne
@@ -86,8 +88,6 @@ Des millions de développeurs utilisent ce site pour être plus efficaces... pou
 
 
 Ce site est totalement collaboratif: [Voir le guide](./xtras/guide-github.md)
-
-[![Suivre le projet](./xtras/voirProjet.svg)](./xtras/guide-github.md)
 
 <a href="./xtras/guide-github.md"><img src="./xtras/voirProjet.svg" height="40px" width="200px"/></a>
 
