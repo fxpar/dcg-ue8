@@ -89,6 +89,8 @@ Ce site est totalement collaboratif: [Voir le guide](./xtras/guide-github.md)
 
 [![Suivre le projet](./xtras/voirProjet.svg)](./xtras/guide-github.md)
 
+<a href="./xtras/guide-github.md"><img src="./xtras/voirProjet.svg"/></a>
+
 # Licence
 La licence actuelle est:
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
