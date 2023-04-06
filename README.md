@@ -62,6 +62,8 @@ Le projet vise à fournir un modèle de page complet au format moodle, à partir
 
 L'objectifs serait de "packager" cette sauvegarde moodle d'ici l'été.
 
+<a href="/releases" class="button">Télécharger le cours</a>
+
 
 ## Le site d'entrainement en ligne
 Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
