@@ -33,9 +33,9 @@ Gérer la progression à plusieurs vitesses des étudiants est un défi pour les
 
 ➡️ Le dossier [**SQL**](/sql) contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégrés dans une page de cours.
 
-➡️ Le dossier **excel** regroupe une **série de vidéos** sur les 10 points clés du parcours.
+➡️ Le dossier [**excel**](/excel) regroupe une **série de vidéos** sur les 10 points clés du parcours.
 
-➡️ Le dossier **VBA** rassemble une série d'exercices progressifs pour s'entrainer à la programmation.
+➡️ Le dossier [**VBA**](/vba) rassemble une série d'exercices progressifs pour s'entrainer à la programmation.
 
 
 ## Faciliter l'entrainement
@@ -49,7 +49,7 @@ Les banques de questions correspondant aux annales et aux thèmes sont donc prop
 * question de **texte à trou** pour vérifier la maîtrise (notamment orthographique, cruciale pour cette épreuve écrite)
 * questions **rédaction auto-corrigée** : une série d'expression est recherchée automatiqument dans les réponses
 
-<a href="/vba"><img src="/xtras/explorer.svg" height="40px" width="150px"/></a>
+<a href="/vba"><img src="./xtras/explorer.svg" height="40px" width="150px"/></a>
 
 ## Créer du lien social
 ![Progression](https://img.shields.io/badge/avancement-50%25-yellow)
@@ -77,8 +77,7 @@ Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
 ![SQLpratique](./xtras/SQLpratique.png)
 
 	
-# La collaboration sur Github
-
+# Collaborer ou financer le projet
 
 
 Des millions de développeurs utilisent ce site pour être plus efficaces... pourquoi pas nous les profs? On peut: 
@@ -90,9 +89,19 @@ Des millions de développeurs utilisent ce site pour être plus efficaces... pou
 * faire remonter des bugs et les corriger
 
 
-Ce site est totalement collaboratif: [Voir le guide](./xtras/guide-github.md)
+Ce site est totalement collaboratif: [Voir le guide](./xtras/collaborer.md)
 
-<a href="./xtras/guide-github.md"><img src="./xtras/voirProjet.svg" height="40px" width="200px"/></a>
+<a href="./xtras/collaborer.md"><img src="./xtras/collaborer.svg" height="40px" width="200px"/></a>
+
+# Sponsorisez le projet
+Le temps consacré à ce projet est immense et il reste beaucoup à faire. 
+
+Si vous êtes financeurs ou cofinanceur d'initiatives pédagogiques, pensez à apporter votre soutien à ce projet.
+
+En tant que financeurs vous avez besoin de suivre précisément l'évolution du projet: voici les outils mis en place pour garantir l'atteinte des objectifs.
+
+<a href="./xtras/sponsoriser.md"><img src="./xtras/gestionProjet.svg" height="40px" width="200px"/></a>
+
 
 # Licence
 La licence actuelle est:

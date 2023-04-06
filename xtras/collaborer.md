@@ -71,6 +71,11 @@ Github inclut tous les outils de la collaboration:
 # Et pourquoi pas financer le projet
 Un tel projet demande un temps incroyable... si les ressources font gagner du temps à votre institutions, pensez à devenir sponsors de cette initiative.
 
-<a href="./sponsoriser.md"><img src="./gestionProjet.svg" height="40px" width="200px"/></a>
+### Vue en table
+![Table](./suiviProjetTable.png)
+
+### Vue en plateau
+![Board](./suiviProjetBoard.png)
+
 
 
