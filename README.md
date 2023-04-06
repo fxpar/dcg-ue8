@@ -11,7 +11,7 @@ Voici les axes du projet.
 
 Le dossier **référentiels** contient le fichier des 622 compétences du DCG prêt à être importé dans moodle. Il est alors possible de lier le succés aux quiz et devoirs à l'acquisition d'une ou plusieurs compétences. 
 
-<a href="./xtras/referentiels"><img src="./xtras/voirReferentiel.svg" height="40px" width="200px"/></a>
+<a href="/referentiels"><img src="./xtras/voirReferentiel.svg" height="40px" width="200px"/></a>
 
 ## Encourager les étudiants à pratiquer
 ![Progression](https://img.shields.io/badge/avancement-40%25-orange)
@@ -24,14 +24,14 @@ Puis à **convertir les algorithmes en VBA** pour les années 2008 à la réform
 
 Créer les **bases de données des parties SQL** et fournir un outil facilitant l'essai des réponses et la création de questions complémentaire immédiatement testables.
 
-<a href="./xtras/annales"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
+<a href="/annales"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
 
 ## Personaliser les rythmes d'apprentissage
 ![Progression](https://img.shields.io/badge/avancement-60%25-yellowgreen)
 
 Gérer la progression à plusieurs vitesses des étudiants est un défi pour les enseignants. 
 
-Le dossier **SQL** contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégré dans une page de cours.
+Le dossier **SQL** contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégrés dans une page de cours.
 
 Le dossier **excel** regroupe une **série de vidéos** sur les 10 points clés du parcours.
 
@@ -48,6 +48,8 @@ Les banques de questions correspondant aux annales et aux thèmes sont donc prop
 * question de **QCM** pour débuter
 * question de **texte à trou** pour vérifier la maîtrise (notamment orthographique, cruciale pour cette épreuve écrite)
 * questions **rédaction auto-corrigée** : une série d'expression est recherchée automatiqument dans les réponses
+
+<a href="/vba"><img src="/xtras/explorer.svg" height="40px" width="150px"/></a>
 
 ## Créer du lien social
 ![Progression](https://img.shields.io/badge/avancement-50%25-yellow)
