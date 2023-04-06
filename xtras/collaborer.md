@@ -1,6 +1,6 @@
 # Collaborer au projet
 
-Ce projet open source est hébergé sur Github pour facilité toutes les collaborations, des plus simples au plus geeks.
+Ce projet open source est hébergé sur Github pour faciliter toutes les collaborations, des plus simples au plus geeks.
 
 ## Partager les ressources 
 Les ressources sont publiées en licence Creative Commons CC-NC-By-Sa, ce qui signifie que vous pouvez les partager tant que vous ne faites rien payer, que vous ne modifiez pas la licence, et que vous citez la source: https://github.com/fxpar/dcg-ue8/
@@ -71,11 +71,7 @@ Github inclut tous les outils de la collaboration:
 # Et pourquoi pas financer le projet
 Un tel projet demande un temps incroyable... si les ressources font gagner du temps à votre institutions, pensez à devenir sponsors de cette initiative.
 
-### Vue en table
-![Table](./suiviProjetTable.png)
-
-### Vue en plateau
-![Board](./suiviProjetBoard.png)
+<a href="./xtras/sponsoriser.md"><img src="./xtras/gestionProjet.svg" height="40px" width="200px"/></a>
 
 
 

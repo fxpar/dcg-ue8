@@ -21,4 +21,4 @@ Les développeurs ont énormément fait évoluer la démarche qualité:
 
 
 
-<a href="https://github.com/users/fxpar/projects/1"><img src="./xtras/suiviProjet.svg" height="40px" width="200px"/></a>
+<a href="https://github.com/users/fxpar/projects/1"><img src="./suiviProjet.svg" height="40px" width="200px"/></a>

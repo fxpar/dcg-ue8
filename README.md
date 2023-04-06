@@ -77,7 +77,7 @@ Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
 ![SQLpratique](./xtras/SQLpratique.png)
 
 	
-# Collaborer ou financer le projet
+# Collaborer au projet
 
 
 Des millions de développeurs utilisent ce site pour être plus efficaces... pourquoi pas nous les profs? On peut: 
