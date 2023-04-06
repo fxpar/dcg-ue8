@@ -18,11 +18,11 @@ Le dossier **référentiels** contient le fichier des 622 compétences du DCG pr
 
 Les fichiers word ou pdf des annales ont été transformés en fichiers d'exercice pour faire travailler concrètement les étudiants.
 
-Réaliser les **fichiers Excel** des 14 annales à partir des captures d'écran fournies dans les sujets, pour que les étudiants puissent tester leurs formules réellement.
+➡️ Réalisation des **fichiers Excel** des 14 annales à partir des captures d'écran fournies dans les sujets, pour que les étudiants puissent tester leurs formules réellement.
 
-Puis à **convertir les algorithmes en VBA** pour les années 2008 à la réforme de 2019, avec les fichiers de correction.
+➡️ Conversion des **algorithmes en VBA** pour les années 2008 à la réforme de 2019, avec les fichiers de correction.
 
-Créer les **bases de données des parties SQL** et fournir un outil facilitant l'essai des réponses et la création de questions complémentaire immédiatement testables.
+➡️ Création des **bases de données SQL** pour fournir un outil facilitant l'essai des requêtes par les étudiants et la création de questions complémentaire immédiatement testables pour les enseignants.
 
 <a href="/annales"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
 
@@ -64,14 +64,15 @@ Le dossier **activités** vise à contenir des activité pour le travail en **bi
 
 Le projet vise à fournir un modèle de page complet au format moodle, à partir duquel les enseignants pourront composer: compétences, banques de questions, quiz pré-paramétrés pour valider les compétences (généralement après trois tentatives), badges, liens vidéos des replay...
 
-L'objectifs serait de "packager" cette sauvegarde moodle d'ici l'été.
+Les nouvelles versions du cours sont mise à disposition chaque mois.
 
-<a href="./releases"><img src="./xtras/telechargerCours.svg" height="40px" width="230px"/></a>
+<a href="https://github.com/fxpar/dcg-ue8/releases"><img src="./xtras/telechargerCours.svg" height="40px" width="230px"/></a>
 
 
 ## Le site d'entrainement en ligne
 Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
-Vue mobile pour l'entrainement dans les transports.
+
+Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
 
 ![SQLpratique](./xtras/SQLpratique.png)
 
