@@ -11,7 +11,7 @@ Voici les axes du projet.
 
 Le dossier **référentiels** contient le fichier des 622 compétences du DCG prêt à être importé dans moodle. Il est alors possible de lier le succés aux quiz et devoirs à l'acquisition d'une ou plusieurs compétences. 
 
-<a href="./xtras/referentiels.md"><img src="./xtras/voirReferentiel.svg" height="40px" width="200px"/></a>
+<a href="./xtras/referentiels"><img src="./xtras/voirReferentiel.svg" height="40px" width="200px"/></a>
 
 ## Encourager les étudiants à pratiquer
 ![Progression](https://img.shields.io/badge/avancement-40%25-orange)
@@ -24,7 +24,7 @@ Puis à **convertir les algorithmes en VBA** pour les années 2008 à la réform
 
 Créer les **bases de données des parties SQL** et fournir un outil facilitant l'essai des réponses et la création de questions complémentaire immédiatement testables.
 
-<a href="./xtras/annales.md"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
+<a href="./xtras/annales"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
 
 ## Personaliser les rythmes d'apprentissage
 ![Progression](https://img.shields.io/badge/avancement-60%25-yellowgreen)
@@ -64,7 +64,7 @@ Le projet vise à fournir un modèle de page complet au format moodle, à partir
 
 L'objectifs serait de "packager" cette sauvegarde moodle d'ici l'été.
 
-<a href="/releases"><img src="./xtras/telechargerCours.svg" height="40px" width="230px"/></a>
+<a href="./releases"><img src="./xtras/telechargerCours.svg" height="40px" width="230px"/></a>
 
 
 ## Le site d'entrainement en ligne
