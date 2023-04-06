@@ -6,7 +6,7 @@ Ce projet a pour but de démontrer l'utilité et la faisabilité d'un vaste prog
 
 Voici les axes du projet. 
 
-## Comment améliorer l'évaluation par compétences?
+## Simplifier l'évaluation par compétences
 ![progression Référentiel](https://img.shields.io/badge/avancement-100%25-green)
 
 Le dossier **référentiels** contient le fichier des 622 compétences du DCG prêt à être importé dans moodle. Il est alors possible de lier le succés aux quiz et devoirs à l'acquisition d'une ou plusieurs compétences. 
@@ -31,11 +31,11 @@ Les fichiers word ou pdf des annales ont été transformés en fichiers d'exerci
 
 Gérer la progression à plusieurs vitesses des étudiants est un défi pour les enseignants. 
 
-Le dossier **SQL** contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégrés dans une page de cours.
+➡️ Le dossier [**SQL**](/sql) contient **deux modules interactifs H5P** pour s'initier en autonomie aux bases de cet outil. Ils sont téléchargeables afin d'être intégrés dans une page de cours.
 
-Le dossier **excel** regroupe une **série de vidéos** sur les 10 points clés du parcours.
+➡️ Le dossier **excel** regroupe une **série de vidéos** sur les 10 points clés du parcours.
 
-Le dossier **VBA** rassemble une série d'exercices progressifs pour s'entrainer à la programmation.
+➡️ Le dossier **VBA** rassemble une série d'exercices progressifs pour s'entrainer à la programmation.
 
 
 ## Faciliter l'entrainement
