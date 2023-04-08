@@ -66,7 +66,10 @@ Le projet vise à fournir un modèle de page complet au format moodle, à partir
 
 Les nouvelles versions du cours sont mise à disposition chaque mois.
 
+Voir le cours en ligne avant de télécharger: [Cours DCG8](https://www.edu.ep2b.fr/course/view.php?id=7).
+
 <a href="https://github.com/fxpar/dcg-ue8/releases"><img src="./xtras/telechargerCours.svg" height="40px" width="230px"/></a>
+
 
 
 ## Le site d'entrainement en ligne
