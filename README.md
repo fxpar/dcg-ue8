@@ -108,6 +108,9 @@ En tant que financeurs vous avez besoin de suivre précisément l'évolution du 
 
 # Licence
 La licence actuelle est:
+
+![CC-By-NC-SA](./CC_BY-NC-SA.svg)
+
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
 
 CC-By-NC-SA
