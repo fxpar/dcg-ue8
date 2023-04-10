@@ -61,14 +61,23 @@ Annales disponibles:
 
 ## Visuel v.1.0
 
-Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
+Merci à l'université de Bordeaux (service MAPI et DSI) pour la mise en place de l'espace de développement et pour l'hébergement du site.
 
 ![SQLpratique](./xtras/SQLpratique.png)
 
+## Évolution
+
+Un financement du projet permettrait d'améliorer plusieurs points:
+
+* déplacer les boutons précédent et suivant
+* afficher le nombre de questions par base de données
+* ajouter un outil pour importer de nouvelles questions facilement
 
 ## Code source SQLpratique
 
 Le code source du projet est hébergé également sur Github: [SQLpratique](https://github.com/fxpar/SQLpratique)
+
+Ce projet s'appuie sur le code initial de Jérôme Darmont (Université Lyon II Lumière). Merci à lui et à ses étudiants d'avoir accepté de partager le code sous licence open source.
 
 
 
