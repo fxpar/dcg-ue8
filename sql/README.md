@@ -38,3 +38,30 @@ https://www.youtube.com/watch?v=-kgEwheLY4M)
 https://www.youtube.com/watch?v=iNsyjBTWqIk)
 
 
+# SQLpratique
+
+**Site d'entrainement en ligne**:
+
+Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
+
+Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
+
+
+Les bases de données SQL sont progressivement mise en ligne pour permettre l'entrainement aux requêtes:
+* de séléction
+* de suppression
+* d'ajout
+
+<a href="./sql#SQLpratique"><img src="./xtras/testersqlpratique.svg" height="40px" width="250px"/></a>
+
+## Visuel v.1.0
+
+![SQLpratique](./xtras/SQLpratique.png)
+
+
+## Code source SQLpratique
+
+Le code source du projet est hébergé également sur Github: [SQLpratique](https://github.com/fxpar/SQLpratique)
+
+
+

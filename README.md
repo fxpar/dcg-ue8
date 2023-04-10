@@ -1,8 +1,9 @@
 ![Réussir le DCG 8 couverture](./xtras/couverture.jpg)
 # Réussir le DCG 8
-Ressources d'entrainement pour les étudiants et les enseignants en systèmes d'informations et gestion: Excel, VBA, SQL, RGPD, Réseau. 
+Partage open source des ressources d'entrainement pour les étudiants et les enseignants en systèmes d'informations et gestion: Excel, VBA, SQL, RGPD, Réseau. 
 
-Ce projet a pour but de démontrer l'utilité et la faisabilité d'un vaste programme de partage des ressources autour de l'UE "système d'information et de gestion" du DCG pour les 5000 étudiants qui s'inscrivent chaque année à cette épreuve et pour les centaines d'enseignants qui les accompagnent.
+### Objectif
+Mettre les exercices des 14 annales à disposition des 5000 étudiants qui s'incrivent chaque année à l'épreuve d'informatique du diplôme de gestion: classeurs excel, base de données, activités, QCM...
 
 Voici les axes du projet. 
 
@@ -16,13 +17,13 @@ Le dossier **référentiels** contient le fichier des 622 compétences du DCG pr
 ## Encourager les étudiants à pratiquer
 ![Progression](https://img.shields.io/badge/avancement-40%25-orange)
 
-Les fichiers word ou pdf des annales ont été transformés en fichiers d'exercice pour faire travailler concrètement les étudiants.
+Les fichiers word ou pdf des annales sont transformés en fichiers d'exercice pour faire travailler concrètement les étudiants:
 
 ➡️ Réalisation des **fichiers Excel** des 14 annales à partir des captures d'écran fournies dans les sujets, pour que les étudiants puissent tester leurs formules réellement.
 
 ➡️ Conversion des **algorithmes en VBA** pour les années 2008 à la réforme de 2019, avec les fichiers de correction.
 
-➡️ Création des **bases de données SQL** pour fournir un outil facilitant l'essai des requêtes par les étudiants et la création de questions complémentaire immédiatement testables pour les enseignants.
+➡️ Création des **bases de données SQL** pour fournir un outil facilitant l'essai des requêtes par les étudiants et la création de questions complémentaire immédiatement testables pour les enseignants *(les annales 2008 à 2019 sont adaptées pour correspondre à la réforme)*
 
 <a href="/annales"><img src="./xtras/voirAnnales.svg" height="40px" width="200px"/></a>
 
@@ -73,12 +74,27 @@ Voir le cours en ligne avant de télécharger: [Cours DCG8](https://www.edu.ep2b
 
 
 ## Le site d'entrainement en ligne
+
+![Avancement SQLpratique](https://img.shields.io/badge/mise%20en%20ligne-100%25-green)
+![Avancement SQLpratique](https://img.shields.io/badge/ajout%20DB-30%25-orange)
+
+Fournir un site en ligne permettant aux étudiants de pratiquer directement leurs requête sur les base des annales:
+
+💎 permettre les requêtes d'ajout, de modification et de suppression
+
+💎 avoir des indices
+
+💎 voir le résultat attendu
+
+💎 voir la ou les corrections possibles
+
 Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
 
 Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
 
 ![SQLpratique](./xtras/SQLpratique.png)
 
+<a href="./sql#SQLpratique"><img src="./xtras/sqlpratique.svg" height="40px" width="200px"/></a>
 	
 # Collaborer au projet
 
@@ -109,7 +125,8 @@ En tant que financeurs vous avez besoin de suivre précisément l'évolution du 
 # Licence
 La licence actuelle est:
 
-![CC-By-NC-SA](./CC_BY-NC-SA.svg)
+
+<img src="./CC_BY-NC-SA.svg" width="50%" alt="CC-By-NC-SA"/>
 
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**
 
