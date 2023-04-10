@@ -113,7 +113,7 @@ Le temps consacré à ce projet est immense et il reste beaucoup à faire.
 
 Si vous êtes financeurs ou cofinanceur d'initiatives pédagogiques, pensez à apporter votre soutien à ce projet.
 
-En tant que financeurs vous avez besoin de suivre précisément l'évolution du projet: voici les outils mis en place pour garantir l'atteinte des objectifs.
+En tant que financeur vous avez besoin de suivre précisément l'évolution du projet: voici les outils mis en place pour garantir l'atteinte des objectifs.
 
 <a href="./xtras/sponsoriser.md"><img src="./xtras/gestionProjet.svg" height="40px" width="200px"/></a>
 

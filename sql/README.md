@@ -57,9 +57,7 @@ Annales disponibles:
 * 2020
 * 2019
 
-<a href="./sql#sqlpratique"><img src="./xtras/testersqlpratique.svg" height="40px" width="250px"/></a> 
-* identifiant: externe
-* mot de passe: externe
+<a href="./sql#sqlpratique"><img src="./xtras/testersqlpratique.svg" height="40px" width="250px"/></a> **identifiant:** externe **mot de passe:** externe
 
 ## Visuel v.1.0
 
