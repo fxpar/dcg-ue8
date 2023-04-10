@@ -42,19 +42,28 @@ https://www.youtube.com/watch?v=iNsyjBTWqIk)
 
 **Site d'entrainement en ligne**:
 
-Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
-
-Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
-
 
 Les bases de données SQL sont progressivement mise en ligne pour permettre l'entrainement aux requêtes:
-* de séléction
+
+* de sélection
 * de suppression
 * d'ajout
 
-<a href="./sql#SQLpratique"><img src="./xtras/testersqlpratique.svg" height="40px" width="250px"/></a>
+Travailler en mobilité:
+* vue responsive pour entrainement sur smartphone comme sur ordinateur
+
+Annales disponibles:
+* 2022
+* 2020
+* 2019
+
+<a href="./sql#sqlpratique"><img src="./xtras/testersqlpratique.svg" height="40px" width="250px"/></a> 
+* identifiant: externe
+* mot de passe: externe
 
 ## Visuel v.1.0
+
+Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
 
 ![SQLpratique](./xtras/SQLpratique.png)
 

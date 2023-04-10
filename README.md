@@ -88,11 +88,7 @@ Fournir un site en ligne permettant aux étudiants de pratiquer directement leur
 
 💎 voir la ou les corrections possibles
 
-Merci à l'université de Bordeaux (service MAPI) pour l'hébergement du site.
 
-Interface responsive pour permettre l'entrainement sur ordinateur ou sur mobile.
-
-![SQLpratique](./xtras/SQLpratique.png)
 
 <a href="./sql#SQLpratique"><img src="./xtras/sqlpratique.svg" height="40px" width="200px"/></a>
 	
