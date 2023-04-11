@@ -3,11 +3,13 @@
 Vous trouverez ici une sauvegarde Moodle du cours complet de système d'information et de gestion, prête à être installée.
 
 La version la plus récente se trouve ici:
+
 <a href="https://github.com/fxpar/dcg-ue8/releases"><img src="../xtras/telechargerCours.svg" height="40px" width="230px"/></a>
 
 
-Vous pouvez voir une démo du cours sur moodle (accès libre) ici:
-[Cours DCG8 sur moodle](https://www.edu.ep2b.fr/course/view.php?id=7)
+Vous pouvez voir une démo du cours sur moodle  ici:
+
+[Cours DCG8 sur moodle](https://www.edu.ep2b.fr/course/view.php?id=7) (accès libre)
 
 ## navigation
 
