@@ -21,7 +21,7 @@ Format: xml moodle
 Encodage: UTF8
 
 
-* 2011 
- * SQL 
+* 2011 (7)
+ * SQL (10)
 
 Questions de Composition et Choix multiple

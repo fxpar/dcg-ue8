@@ -7,9 +7,17 @@ Deux fichiers Excel sont fournis:
 * [x] Créer la correction
 
 ## Banque de question
+
 Ensemble des questions avec la correction en feedback
 
+* 2020
+  * SQL (9)
+  * Réseau et sécurité (2)
+  * RGPD (3)
+  * VBA (3)
+
 ## Base de donnée
+
 Je n'ai pas trouvé un listing propre pour le port de Bordeaux. Par contre le porte de Nantes Saint Nazaire fournit une [superbe interface](https://swing.nantes.port.fr/fr/liste/128/arrivees) avec export Excel. Les données d'escale et sur les consignataires viennent donc de là. Les données manquantes ont été ajoutées.
 
 

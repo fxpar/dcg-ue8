@@ -13,7 +13,7 @@ Format: xml moodle
 Encodage: UTF8
 
 
-* 2010
- * SQL 
+* 2010 (13)
+ * SQL (6)
 
 Questions de Composition et Choix multiple

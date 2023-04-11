@@ -17,3 +17,10 @@ b)	Le nombre de soins par salon (code, nombre de soins) dont la durée est supé
 c)	La liste des soins (code et libellé) qui ne sont pas planifiés le 27 janvier 2022.
 
 d)	La liste des séjours (code et libellé) réservés par plus de 20 clients.
+
+## Banque de question
+Ensemble des questions avec la correction en feedback
+
+* 2022
+  * SQL (8)
+  * VBA (3)

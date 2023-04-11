@@ -36,7 +36,7 @@ Détaillez votre réponse.
 
 
 
-## À propos du sujet
+### À propos du sujet
 
 Trois concepts sont présents:
 - la pseudo entité SECTEUR-HOTEL
@@ -48,7 +48,7 @@ Spontanément, j'aurais créé une table des saisonniers avec les différentes m
 Visiblement, le créateur du sujet a eu pitié des étudiants et il me semble que ne peuvent apparaître que la "mission en cours" d'un salarié.  
 Je ne pense pas que nous ayons ici la possibilité d'avoir l'historique des missions d'un même salarié saisonnier qui reviendrait. J'ai donc suivi la correction de Grenoble qui pose le champs SAISONNIER.<ins>#CodeEmp</ins> comme clé primaire
 
-## Versions
+### Versions
 
 ### Sqlite
 - la contrainte d'exclusion est réalisée via un "Check"
@@ -66,3 +66,16 @@ L'annale de 2019 est disponible avec son corrigé sur http://crcf.ac-grenoble.fr
 
 La liste des prénoms vient de la liste des prénoms les plus attribués en France en 2018... J'ai pris les 50 premiers.
 
+
+## Banque de question
+
+Format: xml moodle
+
+Encodage: UTF8
+
+
+* 2019
+ * SQL (8)
+ * Réseau et sécurité (8)
+
+Questions de Composition et Choix multiple
