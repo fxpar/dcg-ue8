@@ -2,6 +2,13 @@
 
 Vous trouverez ici une sauvegarde Moodle du cours complet de système d'information et de gestion, prête à être installée.
 
+La version la plus récente se trouve ici:
+<a href="https://github.com/fxpar/dcg-ue8/releases"><img src="../xtras/telechargerCours.svg" height="40px" width="230px"/></a>
+
+
+Vous pouvez voir une démo du cours sur moodle (accès libre) ici:
+[Cours DCG8 sur moodle](https://www.edu.ep2b.fr/course/view.php?id=7)
+
 ## navigation
 
 Le menu de navigation permet d'aller directement à la section recherchée.
@@ -53,6 +60,6 @@ Voici un exemple de grille à ajouter dans les devoirs des annales.
 
 ![navigation du cours](./xtras/grille2.png)
   
-# Pages plus comlètes
+# Pages plus complètes
 
 Il existe des [contenus plus riches](https://github.com/fxpar/Cours) en vidéo, en cours de publication également sur Github : cours Excel ([voir la démo](https://www.edu.ep2b.fr/course/view.php?id=6)), cours VBA, cours Access, cours PowerBi.
