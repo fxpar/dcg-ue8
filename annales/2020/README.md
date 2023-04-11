@@ -18,6 +18,20 @@ Ensemble des questions avec la correction en feedback
 
 ## Base de donnée
 
+
+* Navire (🔑numOMI, nomNavire, longueur, largeur, tirantdEauMax, idTypeNavire, libelléTypeNavire, #️⃣ idPays)
+* Marchandise (🔑idMarchandise, LibelléMarchandise)
+* Pays (🔑idPays, pavillon, pays)
+* Emplacement (🔑IdEmpl, 🔑idQuai, longueurEmpl, tirantEauEmpl)
+* Quai (🔑idQuai, nomQuai)
+* Client (🔑idClient, raisonSocialeClient, adrRueClient, CPClient, adrVilleClient, mailClient, telClient)
+* Escale (🔑idEscale, dateDébut, dateFin, tirantdEauArrivée, tirantdEauDépart, idAgent, numOMI, #️⃣ idQuai, #️⃣ idEmpl)
+* AgentConsignataire (🔑idAgent, raisonSocialeAgent, adrRueAgent, CPAgent, adrVilleAgent, mailAgent, telAgent)
+* Opération (🔑idOpération, libelléOpération)
+* CompositionCargaison (🔑idEscale, 🔑idOpération, 🔑idMarchandise, 🔑idClient, tonnageMarchandise)
+
+
+
 Je n'ai pas trouvé un listing propre pour le port de Bordeaux. Par contre le porte de Nantes Saint Nazaire fournit une [superbe interface](https://swing.nantes.port.fr/fr/liste/128/arrivees) avec export Excel. Les données d'escale et sur les consignataires viennent donc de là. Les données manquantes ont été ajoutées.
 
 

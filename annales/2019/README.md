@@ -50,6 +50,18 @@ Je ne pense pas que nous ayons ici la possibilité d'avoir l'historique des miss
 
 ### Versions
 
+
+* Secteurs (🔑<u>NumSecteur</u>, NomSecteur)
+* Hotels (🔑NumHotel, NomHotel, NbEtoiles, RueHotel, CPHotel, VilleHotel, PaysHotel)
+* Concernés (🔑NumSecteur, #⃣ NumHotel, #⃣ CodeEmp)
+* Lodges (🔑NumLodge, NomLodge, CapaciteAccueil, NbPieces, NbLitsSimples, NbLitsDoubles, NumHotel, CodeType)
+* Types (🔑CodeType, LibelléType, TarifSemaine, TarifNuitée)
+* Employés (🔑CodeEmp, NomEmp, PrénomEmp, RueEmp, VilleEmp, CodePostalEmp, Salaire, Saisonnier, Permanent)
+* Saisonniers (🔑DateDebutMission, 🔑DateFinMission, Prime, CodeEmpSais)
+* Permanents (🔑DateEmbauche, 🔑CodeEmpPerm)
+
+
+
 ### Sqlite
 - la contrainte d'exclusion est réalisée via un "Check"
 

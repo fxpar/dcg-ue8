@@ -8,6 +8,18 @@
 * Les durée des soins et noms de clients sont fictifs
 * Les contraintes de relation ne sont pas incluses dans la version sqlite (.db)
 
+### Schema
+
+* CLIENT (🔑numClient, nomClient, prénomClient, adresseRueClient, cpClient, adrVilleClient, mailClient, telClient)
+* SEJOUR (🔑CodeSéjour, LibelléSéjour)
+* RESERVER (🔑numClient, CodeSéjour, DateDébutSéjour)
+* PLANIFIER (🔑numClient,🔑dateSoin,🔑codeSoin, heureSoin, numPersonnel)
+* SOIN (🔑codeSoin, libelléSoin, duréeSoin, #️⃣ codeSalon)
+* SALON (🔑codeSalon, libelléSalon, nombreCabines)
+* PERSONNEL (🔑numPersonnel, nomPersonnel, prénomPersonnel, #️⃣ codeSalon)
+
+
+
 ### SQL
 
 a)	La liste des clients (numéro, nom et prénom) qui ont réservé un séjour "MER & MAMAN BEBE" ayant débuté en janvier 2022.
