@@ -47,6 +47,12 @@ Chaque partie dispose de ses introductions et de ses replays en vidéo:
   * questions de maîtrise (Texte à trous)
   * questions de compréhension (composition auto notée)
   
+## Grille
+
+Voici un exemple de grille à ajouter dans les devoirs des annales.
+
+![navigation du cours](./xtras/grille2.png)
+  
 # Pages plus comlètes
 
 Il existe des [contenus plus riches](https://github.com/fxpar/Cours) en vidéo, en cours de publication également sur Github : cours Excel ([voir la démo](https://www.edu.ep2b.fr/course/view.php?id=6)), cours VBA, cours Access, cours PowerBi.
