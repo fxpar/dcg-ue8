@@ -2,16 +2,39 @@
 
 Vous trouverez ici une sauvegarde Moodle du cours complet de système d'information et de gestion, prête à être installée.
 
-* Ressources et activité
-  * vidéo en ligne
-  * vidéo interactive H5P
+## navigation
+
+Le menu de navigation permet d'aller directement à la section recherchée.
+
+![navigation du cours](./xtras/cc01.png)
+
+# Le référentiel de Compétences
+
+Parmi les 622 compétences du DCG les 70 concernant l'informatique ont été rattachée au cours avec leurs savoirs associés.
+
+![navigation du cours](../referentiels/competences-moodle.png)
+
+## Ressources et activités
+
+Chaque partie dispose de ses introductions et de ses replays en vidéo:
+
+![navigation du cours](./xtras/cc02.png)
+
+![navigation du cours](./xtras/cc03.png)
+
+## annales 
+
+(bases de données, fichiers excel...)
+
+![navigation du cours](./xtras/cc06.png)
+
+
+# En cours d'ajout
+(objectif version 1.0)
+
+*Ressources et activités
+  * vidéo interactive H5P (à importer)
   * exercices en solo, en binômes, en mini-groupes
-  * annales (bases de données, fichiers excel...)
-* Banque de questions
-  * questions d'initiation (QCM simples)
-  * questions de maîtrise (Texte à trous)
-  * questions de compréhension (composition auto notée)
-* Compétences
 * Quiz d'entrainement
   * paramétrés pour valider les compétences après 3 succès avec une note à atteindre croissante
 * Badges
@@ -19,5 +42,7 @@ Vous trouverez ici une sauvegarde Moodle du cours complet de système d'informat
   * début de parcours
   * début et fin de séance
   * fin de parcours
-
-
+* Banque de questions
+  * questions d'initiation (QCM simples)
+  * questions de maîtrise (Texte à trous)
+  * questions de compréhension (composition auto notée)
