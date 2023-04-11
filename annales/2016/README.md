@@ -6,11 +6,11 @@ La partie Excel de l'annale a été convertie en véritable fichier Excel permet
 
 ## VBA
 
-La partie Algorithmie a été transorfmée en véritable VBA afin de servir d'entrainement.
+La partie Algorithmie a été transformée en véritable VBA afin de servir d'entrainement.
 
 ## Schéma simplifié
 
-Pour répondre aux nouvelles attentes de la réforme 2019, le schéma de 2008 a été modifié et adapté.
+Pour répondre aux nouvelles attentes de la réforme 2019, le schéma de 2016 a été modifié et adapté.
 
 Les fichiers images (svg et png) et le fichier modifiable (pptx) sont fournis.
 

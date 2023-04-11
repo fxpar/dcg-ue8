@@ -10,7 +10,7 @@ La partie Algorithmie a été transorfmée en véritable VBA afin de servir d'en
 
 ## Schéma simplifié
 
-Pour répondre aux nouvelles attentes de la réforme 2019, le schéma de 2008 a été modifié et adapté.
+Pour répondre aux nouvelles attentes de la réforme 2019, le schéma de 2012 a été modifié et adapté.
 
 Les fichiers images (svg et png) et le fichier modifiable (pptx) sont fournis.
 

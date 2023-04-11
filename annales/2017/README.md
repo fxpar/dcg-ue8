@@ -1,5 +1,10 @@
 # Annale 2017
 
+## Fichier Excel
+
+La partie Excel de l'annale a été convertie en véritable fichier Excel permettant de tester plusieurs formules.
+
+
 ## VBA
 Version étudiant du code, à corriger et améliorer:
 
