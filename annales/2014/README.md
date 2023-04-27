@@ -28,3 +28,11 @@ Version étudiant à améliorer et corriger:
 		Msgbox("Le montant moyen de l'aide reçue par les lignes est:")
 		Msgbox(maidetot/n)
 	end sub
+
+## Schéma simplifié
+
+Pour répondre aux nouvelles attentes de la réforme 2019, le schéma de 2014 a été modifié et adapté.
+
+Les fichiers images (svg et png) et le fichier modifiable (pptx) sont fournis.
+
+![Schéma 2014 simplifié](./2014-simple.svg)

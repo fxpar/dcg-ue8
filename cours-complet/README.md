@@ -11,7 +11,9 @@ Vous pouvez voir une démo du cours sur moodle  ici:
 
 [Cours DCG8 sur moodle](https://www.edu.ep2b.fr/course/view.php?id=7) (accès libre)
 
-## navigation
+Détail du cours et explications:
+
+## Navigation
 
 Le menu de navigation permet d'aller directement à la section recherchée.
 
@@ -31,7 +33,7 @@ Chaque partie dispose de ses introductions et de ses replays en vidéo:
 
 ![navigation du cours](./xtras/cc03.png)
 
-## annales 
+## Annales 
 
 (bases de données, fichiers excel...)
 
@@ -56,11 +58,14 @@ Chaque partie dispose de ses introductions et de ses replays en vidéo:
   * questions de maîtrise (Texte à trous)
   * questions de compréhension (composition auto notée)
   
-## Grille
+## Grille Moodle
 
 Voici un exemple de grille à ajouter dans les devoirs des annales.
 
 ![navigation du cours](./xtras/grille2.png)
+
+Je recommande l'installation du plugin permettant d'exporter le détail des notes de cette grille avec les commentaires (très utile pour préparer le cours de rendus: on peut facilement voir qui a besoin d'aide sur quelle partie).
+
   
 # Pages plus complètes
 
