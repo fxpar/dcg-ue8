@@ -11,23 +11,22 @@ Version 0.1 du fichier:
 ## Correction VBA
 Version étudiant à améliorer et corriger:
 
-	Sub ValeursAides
-		Dim mAideTot as intenger
-		Dim mAide as intenger
-		Dim nb as single
-		Dim rep as text
-		Rep = Imputbox("Y-at-il une ligne aidée? oui/non")
-		do while rep= oui
-			mAide=Imputbox("Donner le montant de l'aide reçue")
-			mAide= mAidetot+mAide
-			nb=nb+1
-			rep = imputbox("le montant d'aide total reçu par les lignes est:")
-		loop
-		Msgbox("Le montant d'aide total reçue par les lignes est:")
-		Msgbox(mAidetot)
-		Msgbox("Le montant moyen de l'aide reçue par les lignes est:")
-		Msgbox(maidetot/n)
-	end sub
+	Sub ValeursAides()
+		Dim mAideTot As Long
+		Dim mAide As Long
+		Dim nb As Integer
+		Dim rep As String
+		rep = MsgBox("Y-at-il une ligne aidée?", vbYesNo)
+		Do While rep = vbYes
+			mAide = InputBox("Donner le montant de l'aide reçue")
+			mAideTot = mAideTot + mAide
+			nb = nb + 1
+			rep = MsgBox("Y a-t-il une autre ligue aidée?", vbYesNo)
+		Loop
+		MsgBox ("le montant d'aide total reçu par les lignes est: " & mAideTot & vbCrLf & _
+			"Le montant moyen de l'aide reçue par les lignes est: " & mAideTot / nb)
+	End Sub
+
 
 ## Schéma simplifié
 
